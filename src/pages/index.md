@@ -26,7 +26,7 @@ intro:
 
 
 
-        Check our post or contact us directly for current availability.
+        1Check our post or contact us directly for current availability.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
