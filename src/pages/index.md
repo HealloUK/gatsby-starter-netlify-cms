@@ -25,6 +25,7 @@ intro:
         local communities. 
 
 
+
         Check our post or contact us directly for current availability.
     - image: /img/coffee-gear.png
       text: >
